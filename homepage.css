@@ -1,0 +1,16 @@
+.daidaiTheme {
+	background-color : #F7F1D7;
+	/* background-color : #22e0f1; */
+	/* color: #F15A22; */
+	color: #4970A3;
+	font-family: 'Lato', sans-serif;
+}
+
+.orangeBar {
+	background-color : #FF8000;
+	margin : 0px;
+	width : 100%;
+	font-size : 120%;
+	font-family: 'Open Sans', sans-serif;
+	/* font-weight : bold; */
+}
